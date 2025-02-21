@@ -1,0 +1,7 @@
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/execute_swish_op.dir
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/edit_cache.dir
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/rebuild_cache.dir
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/list_install_components.dir
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/install.dir
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/install/local.dir
+/root/scj/swish/AclNNInvocation/build/CMakeFiles/install/strip.dir
